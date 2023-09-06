@@ -1,0 +1,19 @@
+{
+    "name": "aif/framework",
+    "description": "Super scalable, lightweight and intuitive PHP framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aif\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Mondragon",
+            "email": "martin@anemona.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
